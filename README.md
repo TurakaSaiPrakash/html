@@ -20,3 +20,16 @@
 12. header tag <header></header>
 13. address tag <address></address>
 14. code tag <code></code>
+05/05/26
+1.table tag <table></table>
+2.table header tag <th><th>
+3.table row tag <tr></tr>
+4.table data tag<td></td>
+5.break tag <br>
+6.form tag <form></form>
+7.label tag <label></label>
+8.input tag <input>
+9.input types:radio,chekbox
+10.select tag <select></select>
+11.option tag <option></option>
+12.button tag <button></button>
