@@ -33,3 +33,12 @@
 10.select tag <select></select>
 11.option tag <option></option>
 12.button tag <button></button>
+6/5/26
+1.order list <ol></ol>
+2.unorder list<ul></ul>
+3.list item <li></li>
+4.image tag <img src="">
+
+
+student rigistration form
+concept::used forms,tables,order list,unorder list,image tag 
