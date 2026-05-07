@@ -38,7 +38,10 @@
 2.unorder list<ul></ul>
 3.list item <li></li>
 4.image tag <img src="">
-
-
+7/5/26
+1.image tag <img src>
+2.video tag <video> <source src> </video>
+3.audio tag <audio src></audio>
+4.form types  text,numbers ,email and placeholder
 student rigistration form
 concept::used forms,tables,order list,unorder list,image tag 
