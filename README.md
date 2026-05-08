@@ -45,3 +45,9 @@
 4.form types  text,numbers ,email and placeholder
 student rigistration form
 concept::used forms,tables,order list,unorder list,image tag 
+8/5/26
+1.header tag <header></header>
+2.footer tag <footer></footer>
+3.iframe tag <iframe src>
+4.section tag <section></section>
+5.devision tag <div></div>
