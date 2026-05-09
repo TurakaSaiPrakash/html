@@ -51,3 +51,15 @@ concept::used forms,tables,order list,unorder list,image tag
 3.iframe tag <iframe src>
 4.section tag <section></section>
 5.devision tag <div></div>
+9/5/26
+mini project usings
+html basic tags
+table tags
+form
+order list
+unorder lisr
+audio tag
+vidio tag
+image tag
+header tag
+foooter tag
